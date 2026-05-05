@@ -18,8 +18,9 @@ Collected: Mandal Fish Farm, Nepal 2025
 5. **Dashboard** — Streamlit real-time monitoring
 
 ## Key Findings
-- [Fill in after EDA]
-- [Fill in after EDA]
+
+        [ONGOING]
+
 
 ## Setup
 ```bash
